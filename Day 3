@@ -19,10 +19,12 @@
 - Ran fping and nmat on some networks
 
 ## 4. Challenges / Roadblocks
-- Somehow while setting up my VirtualBox labnet I made it so Kali could no longer access the internet, so I fixed it - not by discovering the error and correcting it but by installing a new Kali vm.
-This is not evasion. It’s avoision. 
+- Somehow while setting up my VirtualBox labnet I made it so Kali could no longer access the internet, so I fixed it - 
+  not by discovering the error and correcting it but by installing a second Kali vm.
+  This is not evasion. It’s avoision. 
 
 ## 5. Reflections / Insights
-- Went back to my old chair and it’s suddenly much more comfortable – the implication here being that it’s discomforting architecture is deliberate, and only after realizing the doom of abandonment did it decide to be a team player.
+- Went back to my old chair and it’s suddenly much more comfortable – the implication here being that it’s discomforting architecture is deliberate, 
+  and only after realizing the doom of abandonment did it decide to be a team player.
 - I’ve realized that Red Teaming is more than a career. Philosophical Manifesto coming soon.
 - Discovered that listening to Paul McCartney’s ‘If I Ever Get Out of Here’ on repeat for six hours makes me feel “some kinda way”. 
