@@ -1,0 +1,28 @@
+# Day 03 – December 03, 2025
+
+## 1. Goals for Today
+- Goal 1 Continue a daily cybersecurity study routine
+- Goal 2 Add a chapter to my ultra-mega top-secret book on tech
+- Goal 3 Complete daily lessons, and reading a chapter from
+	Linux Basics For Hackers
+	The 48 Laws of Power
+	Meditations by Marcus Aurelius
+
+## 2. Lessons Learned
+ - Bash: Viewing files (cat, less, head, tail)
+ - Python: Numeric types and arithmetic
+ - SQL: SELECT basics
+ - Pentesting: Active recon intro (ping sweeps)
+
+## 3. Exercises / Projects Completed
+- Performed OSINT on two fictitious companies
+- Ran fping and nmat on some networks
+
+## 4. Challenges / Roadblocks
+- Somehow while setting up my VirtualBox labnet I made it so Kali could no longer access the internet, so I fixed it - not by discovering the error and correcting it but by installing a new Kali vm.
+This is not evasion. It’s avoision. 
+
+## 5. Reflections / Insights
+- Went back to my old chair and it’s suddenly much more comfortable – the implication here being that it’s discomforting architecture is deliberate, and only after realizing the doom of abandonment did it decide to be a team player.
+- I’ve realized that Red Teaming is more than a career. Philosophical Manifesto coming soon.
+- Discovered that listening to Paul McCartney’s ‘If I Ever Get Out of Here’ on repeat for six hours makes me feel “some kinda way”. 
