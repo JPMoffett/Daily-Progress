@@ -16,3 +16,6 @@ Pentesting: Kerberos basics (tickets, SPNs)
 
 ## 3. Projects/Goals
  - I had something really important to announce but I've forgotten what it was. 
+ - I started a spreadsheet where I will keep track of the occupancy of the kitchen and bathroom 
+in the house where I live in order to find the bottle-neck/times-to-avoid going inside, so I can
+later on write a py script to predict the optimal times for eating and uneating. 
