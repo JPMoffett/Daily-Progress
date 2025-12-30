@@ -8,10 +8,11 @@ I am unable to automate scraping for data and am having to do it manually.
 
 It's time consuming on an Existential level. 
 
-I'm doing it batches to keep up with where I am in the process: 
+I'm doing it in batches to keep up with where I am in the process: 
         - dl the shits
         - run my py script to convert the shits.pdf/shits.csv into AI readable text files
         - go back to scouring websites for more shits
+        - wash, rinse, repeat
 
 Ultimately I'll figure out how to automate this search for data, but the end goal is to create an
 internet facing, interactive platform so users can query the AI, search for patterns, etc. 
@@ -22,3 +23,8 @@ At some point I'll have to acquire a comp to act as a host for the AI and server
 No idea how long this will take but hoping to have it up and running and on the web sometime in 2026. 
 
 So henceforth, this Daily-Progress log will detail my nocturnal adventures into bringing this digital dream to life. 
+
+Hopefully, huggingface.co will eventually get it's shit together so I can successfully create a profile and dl an AI model.
+No contact us or help section - had to find them on twitter where they are completely ignoring me. Nice job, guys. 
+
+In the meantime, I praise God for setting me on this path. DEUS VULT. 
